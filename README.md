@@ -1,7 +1,7 @@
 # Evandro Eduardo Seron Ruiz
 [Department of Computer Science and Mathematics](https://dcm.ffclrp.usp.br/), [FFCLRP](http://ffclrp.usp.br), [USP](http://usp.br)
 
-Associate Professor of Computer Science 
+**Associate Professor of Computer Science**
 
 - Bachelor's degree in Computer Science from the University of São Paulo ([ICMC](https://www.icmc.usp.br/) - USP, 1985)
 - Master's degree from the School of Engineering of the [State University of Campinas](https://www.fee.unicamp.br/) - UNICAMP (1989)
