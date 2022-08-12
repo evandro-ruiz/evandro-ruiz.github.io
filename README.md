@@ -9,4 +9,4 @@
 - Complete a sabbatical year at Columbia University, NYC (2007-8), and at the Institute of Advanced Studies of the University of São Paulo (IEA-USP) in 2020. 
 
 Graduate advisor in the [Program in Applied Computation](https://dcm.ffclrp.usp.br/ppgca/) of DCM-FFCLRP. 
-- He has experience in the area of Computer Science and works mainly in the area of Natural Language Processing applications.
+Experienced in Computer Science and work mainly in Natural Language Processing applications.
