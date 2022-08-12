@@ -11,3 +11,5 @@
 
 Graduate advisor in the [Program in Applied Computation](https://dcm.ffclrp.usp.br/ppgca/) of DCM-FFCLRP. 
 Experienced in Computer Science and work mainly in Natural Language Processing applications.
+
+For academic information view [ORCID](https://orcid.org/0000-0002-7434-897X), [Google Scholar](https://scholar.google.com.br/citations?user=lEOpDmwAAAAJ&hl=en) or [Lattes](http://lattes.cnpq.br/0525430082581472).
